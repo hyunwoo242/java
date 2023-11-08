@@ -1,0 +1,29 @@
+3장까지 퀴즈 확인
+
+4. base 기저(?) / bnad 대역, pass 통과
+	baseband modulation 전용회선 - 랜선등.
+	
+	bandpass 통과대역 와이파이 신호를 이용해서 신호전송
+	
+5.	위에서부터 밑으로 내려갈수록 높은주파수
+6.	800~900 tv방송용
+7.	incoding decoding - 코덱
+	캐리어
+	모듈레이션, 디모듈레이션 - 모뎀				
+9.	디지털 시그널 
+		관찰 시간, 관찰 구간
+		멘체스터 1비트당 2신호
+		polar = 극
+10. 	signal-to-noise Ratio 신호잡음기 제거
+	dr 신호 성공적 수신을 위한
+	dw 
+11. 	스펙트럼 빛반사(?)
+	clocking 동기화 = 송신자와 수신자 사이 동기화
+	에러 복구기능 있는가 없는가
+
+	가성비
+13.	rnz 0일때 1전송 / 1일때 0전송
+	1이 나올때 마다 low high 변경 / 바이너리 표현 그이상 사용하기
+	스크램블 = 신호를 섞는 것
+	
+14. encoding decoding codec carrier modulation demodulation
